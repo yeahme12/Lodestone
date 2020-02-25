@@ -6,7 +6,7 @@ gem 'sinatra-contrib', '2.0.5'
 gem 'rack', '~> 2.0.6'
 
 gem 'json'
-gem 'nokogiri', '~> 1.8.2'
+gem 'nokogiri', '~> 1.10.8'
 gem 'redis-namespace'
 gem 'rest-client'
 gem 'rufus-scheduler'
